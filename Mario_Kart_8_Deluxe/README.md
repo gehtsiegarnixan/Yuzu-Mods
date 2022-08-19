@@ -1,6 +1,6 @@
 ## Overview
 
-This is a modified verion of the [32.9 Super Ultrawide mod for 2.0.0 from victoria4dx](https://github.com/victoria4dx/switch-mods/raw/main/Captain%20Toad:%20Treasure%20Tracker/1.3.0/01009BF0072D4000/32.9%20Super%20Ultrawide.zip). I changed the FOV so in 2-player splitscreen is displayed correctly on 32:9 screens. Thanks to [fruithapje21](https://www.reddit.com/r/yuzu/comments/qfgqdi/is_there_a_60fps_mod_for_mario_kart_8_deluxe_4/) for pointing out the updated address.
+This is a modified verion of the [32.9 Super Ultrawide mod for 2.0.0 from victoria4dx](https://github.com/victoria4dx/switch-mods/raw/main/Mario%20Kart%208%20Deluxe/2.0.0/0100152000022000/32.9%20Super%20Ultrawide.zip). I changed the FOV so in 2-player splitscreen is displayed correctly on 32:9 screens. Thanks to [fruithapje21](https://www.reddit.com/r/yuzu/comments/qfgqdi/is_there_a_60fps_mod_for_mario_kart_8_deluxe_4/) for pointing out the updated address.
 
 I don't mind if you reupload, modify, update, or do whatever with the files. Have fun!
 

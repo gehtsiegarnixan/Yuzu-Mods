@@ -13,7 +13,7 @@ I don't mind if you reupload, modify, update, or do whatever with the files. Hav
 ## Install
 To install both or either of the mods:
 1. Download the mod you wish to install linked in the [Downloads section](#Download)
-2. right-click Mario Kart 8 Deluxe in Yuzu and select "Open Mod Data Location".
+2. Right-click Mario Kart 8 Deluxe in Yuzu and select "Open Mod Data Location".
 3. Then move the downloaded mod zip file there. Extract the zipfile here.
 4. If you open the new folder, it should contain a folder called "exefs".
 5. Return to Yuzu and right-click Mario Kart 8 Deluxe and select "Properties".

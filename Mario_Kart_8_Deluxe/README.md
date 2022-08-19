@@ -22,7 +22,7 @@ To install both or either of the mods:
 
 ## Play splitscreen using multiple monitors
 
-You don't need a 32:9 monitor for this mod to work. You can join two 16:9 monitors to act like a single 32:9 monitor 
+You don't need a 32:9 monitor for this mod to work. You can join two 16:9 monitors to act like a single 32:9 monitor.
 So in two-player split screen mode, each player gets a monitor to themselves, or in 3,4-player mode everyone gets half a screen. 
 
 If you have an Nvidia GPU, use [Nvidia Surround Display](https://www.nvidia.com/content/Control-Panel-Help/vLatest/en-us/mergedProjects/nv3d/To_configure_my_displays_for_Surround.htm). It is just a setting in the Nvidia control panel, no need to install anything.
